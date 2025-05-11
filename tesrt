@@ -1,0 +1,15 @@
+ lmstat - Copyright (c) 1989-2020 Flexera. All Rights Reserved.
+Flexible License Manager status on Sun 5/11/2025 03:13
+
+[Detecting lmgrd processes...]
+License server status: 27000@localhost
+    License file(s) on localhost: C:\Program Files (x86)\Citrix\Licensing\MyFiles\\Citrix Virtual Desktop SaaS On-prem Lic Premium Concurrent-1200.lic:C:\Program Files (x86)\Citrix\Licensing\MyFiles\\citrix_startup.lic:C:\Program Files (x86)\Citrix\Licensing\MyFiles\\CS01-11XALC0-Virtual-Apps-Desktop-SAAS-premium-user-device-100.lic:C:\Program Files (x86)\Citrix\Licensing\MyFiles\\CS01-11XALC0-Virtual-Apps-Desktop-SAAS-premium-user-device-250.lic:C:\Program Files (x86)\Citrix\Licensing\MyFiles\\CS01-11XALC0-Virtual-Apps-Desktop-SAAS-premium-user-device-750.lic:
+
+ localhost: license server UP v11.17.2
+
+Vendor daemon status (on CS01-11XALC01):
+
+    CITRIX: UP v11.17.2
+Feature usage info:
+
+Users of XDT_PLT_CCS:  (Total of 1200 licenses issued;  Total of 0 licenses in use)
