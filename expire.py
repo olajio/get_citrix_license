@@ -63,7 +63,7 @@ def main():
     today = datetime.today().date()
     print(f"today: {today}")
     # days_until_expiry = (cert_expiration - today).days
-    print(f"days_until_expiry: {days_until_expiry}")
+    # print(f"days_until_expiry: {days_until_expiry}")
 
 
 
