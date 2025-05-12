@@ -1,0 +1,4 @@
+cert_expiration:  15-apr-2028
+today: 2025-05-12
+Error parsing cert_expiration_date: time data ' 15-apr-2028' does not match format '%d-%b-%Y'
+{"@timestamp": "2025-05-12T13:19:48.963786", "message": "Available licenses are over 30!", "service": {"name": "citrix_licenses", "type": "citrix"}, "log": {"level": "INFO"}, "labels": {"total_licenses": 1200, "used_licenses": 376, "free_licenses": 824}, "hostname": "CS01-11XALC01", "domain": "hedgeservcustomers.com"}
